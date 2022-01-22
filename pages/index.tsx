@@ -25,7 +25,7 @@ type RUC = {
 };
 
 const IndexHead = () => {
-	const domain = "https://search-dni_ruc.renzoalamo.vercel.app",
+	const domain = "https://dni-ruc.renzoalamo.vercel.app",
 		title = "Buscar RUC",
 		description = "Consulta RUC desde la SUNAT.",
 		image = "data-pngrepo.png";
